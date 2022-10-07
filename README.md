@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-[[params.social]]
-  icon = "linkedin"
-  icon_pack = "fa"
-  link = "//linkedin.com/in/elizaveta-lenskaya"
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
